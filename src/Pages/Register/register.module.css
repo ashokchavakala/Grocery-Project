@@ -1,0 +1,35 @@
+.bg_color{
+    background-color: #f0f2f5;
+}
+.alreadyAcc {
+    color: #1877f2;
+    font-family: SFProText-Semibold, Helvetica, Arial, sans-serif;
+    font-size: 17px;
+    cursor: pointer;
+    text-align: center;
+    text-decoration: none;
+    margin: auto;
+    width: 100%;
+    display: inline-block;
+    margin-top: 14px;
+}
+.alreadyAcc:hover{
+    color: #1877f2;
+    text-decoration: underline;
+}
+
+.logo1 {
+    text-align: center;
+    font-weight: 900;
+    letter-spacing: 3.1px;
+    margin-bottom: -6px;
+    color: lightgreen;
+}
+
+.logo2 {
+    text-align: center;
+    font-weight: 900;
+    margin: 0px;
+    color: skyblue;
+    margin-bottom: 0px;
+}
